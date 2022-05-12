@@ -1,0 +1,20 @@
+Film                Genre     Actor             Director             Year
+Inception           Sci-fi    Leonadro DiCaprio Christopher Nolan    2010
+The Dark Knight     Action    Christian Bale    Christopher Nolan    2008
+The Godfather       Crime     Al Pacino         Francis Ford Coppola 1972
+Apocalypse Now      War       Marlon Brando     Francis Ford Coppola 1979
+Goodfellas          Crime     Robert De Niro    Martin Scorsese      1990
+Spirited Away       Animation Rumi Hiiragi      Hayao Miyazaki       2001
+The Matrix          Sci-fi    Keanu Reeves      Lana Wachowski       1999
+3 Idiots            Comedy    Aamir Khan        Rajkumar Hirani      2009
+Baahubali           Action    Prabhas           S. S. Rajamouli      2015
+Tumbbad             Horror    Sohum Shah        Anand Gandhi         2018
+Swades              Drama     Shah Rukh Khan    Ashutosh Gowariker   2004
+Lagaan              Sport     Aamir Khan        Ashutosh Gowariker   2001
+The October Sky     Drama     Jake Gyllenhaal   Joe Johnston         1999
+Iron Man            Action    Robert Downey Jr. Jon Favreau          2008
+Apocalypto          Adventure Rudy Youngblood   Mel Gibson           2006
+Avatar              Sci-fi    Sam Worthington   James Cameron        2009
+Saving Private Ryan War       Tom Hanks         Steven Spielberg     1998
+Parasite            Thriller  Choi Woo-shik     Bong Joon-ho         2019
+The Handmaiden      Romance   Kim Tae-ri        Park Chan-wook       2016
